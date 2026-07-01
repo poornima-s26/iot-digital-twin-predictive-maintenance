@@ -9,3 +9,7 @@
 ## Current Objective
 
 Integrate live sensor data from ESP32 into digital twin for predictive maintenance monitoring.
+
+## Unity Screenshot
+
+![Unity Digital Twin](unity_model.png)
