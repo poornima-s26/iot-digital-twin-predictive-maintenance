@@ -1,9 +1,17 @@
 # IoT-Based Digital Twin Framework for Predictive Maintenance of Motor
 
+ESP32 | Blynk IoT | Unity | Arduino IDE | Predictive Maintenance | Digital Twin Technology  
+
+---
+
 ## Project Status
+
 🚧 Ongoing Final Year Project (2 Semester Project)
 
+---
+
 ## Overview
+
 This project focuses on developing an IoT-enabled Digital Twin framework for predictive maintenance of industrial motors.  
 
 The system continuously monitors motor health parameters such as vibration, temperature, current, and RPM using sensors connected to ESP32. The collected sensor data is transmitted to a cloud dashboard for real-time monitoring and synchronized with a Digital Twin model for visualization and future fault prediction.
@@ -25,35 +33,45 @@ The system continuously monitors motor health parameters such as vibration, temp
 ## Work Completed So Far
 
 ### Hardware Development
+
 - ESP32 interfacing completed  
 - Sensor connections completed  
 - Motor setup completed  
 - Hardware integration testing completed  
 
+---
+
 ### Cloud Dashboard Development
+
 - Blynk dashboard created  
 - Real-time monitoring tested  
 - Sensor data successfully transmitted to cloud dashboard  
 
 ### Blynk Dashboard Preview
 
-![Blynk Dashboard](dashboard/blynk_dashboard1.png)
-![Blynk Dashboard](dashboard/blynk_dashboard2.png)
+<p align="center">
+  <img src="dashboard/blynk_dashboard1.png" width="400"/>
+  <img src="dashboard/blynk_dashboard2.png" width="400"/>
+</p>
 
 ---
 
 ### Digital Twin Development
+
 - Basic Unity model created  
 - Initial digital twin framework prepared  
 - Motor visualization completed  
 
 ### Unity Digital Twin Preview
 
-![Unity Digital Twin](digital_twin/unity_model.png)
+<p align="center">
+  <img src="digital_twin/unity_model.png" width="500"/>
+</p>
 
 ---
 
 ### Mechanical Design
+
 - Enclosure design prepared  
 - Component arrangement finalized  
 
@@ -110,6 +128,7 @@ firmware/esp32_code.ino
 - WiFi.h  
 - BlynkSimpleEsp32.h  
 - BlynkTimer  
+
 ---
 
 ## Working Principle
@@ -142,6 +161,7 @@ firmware/esp32_code.ino
 - Real-time anomaly detection  
 
 ---
+
 ## Repository Structure
 
 ```text
@@ -153,8 +173,8 @@ iot-digital-twin-predictive-maintenance/
 │   └── blynk_dashboard2.png
 │
 ├── diagrams/
-│   ├── Block Diagram.png
-│   ├── Interfacing Diagram.png
+│   ├── BlockDiagram.png
+│   ├── InterfacingDiagram.png
 │   └── project_diagrams.md
 │
 ├── digital_twin/
@@ -170,6 +190,7 @@ iot-digital-twin-predictive-maintenance/
 └── README.md
 ```
 
+---
 
 ## Author
 
