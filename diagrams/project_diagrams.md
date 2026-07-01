@@ -13,7 +13,7 @@ This folder contains project architecture and design diagrams used in the projec
 
 This diagram shows the overall architecture of the predictive maintenance system.
 
-![Block Diagram](Block Diagram.png)
+![Block Diagram](BlockDiagram.png)
 
 ---
 
@@ -21,4 +21,4 @@ This diagram shows the overall architecture of the predictive maintenance system
 
 This diagram shows sensor interfacing connections with ESP32 and other hardware modules.
 
-![Interfacing Diagram](Interfacing Diagram.png)
+![Interfacing Diagram](InterfacingDiagram.png)
