@@ -12,3 +12,7 @@
 ## Status
 
 Dashboard created successfully and tested with ESP32.
+
+## Dashboard Screenshot
+
+![Blynk Dashboard](blynk_dashboard.png)
