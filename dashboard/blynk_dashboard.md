@@ -15,4 +15,5 @@ Dashboard created successfully and tested with ESP32.
 
 ## Dashboard Screenshot
 
-![Blynk Dashboard](blynk_dashboard.png)
+![Blynk Dashboard](blynk_dashboard1.png)
+![Blynk Dashboard](blynk_dashboard2.png)
