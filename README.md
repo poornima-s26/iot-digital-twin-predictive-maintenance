@@ -6,7 +6,7 @@ ESP32 | Blynk IoT | Unity | Arduino IDE | Predictive Maintenance | Digital Twin 
 
 ## Project Status
 
-🚧 Ongoing Final Year Project (2 Semester Project)
+🚧 Ongoing Final Year Project 
 
 ---
 
