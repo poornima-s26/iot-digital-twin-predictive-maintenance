@@ -82,6 +82,36 @@ The system continuously monitors motor health parameters such as vibration, temp
 
 ---
 
+## Firmware / Embedded System Code
+
+The system uses an ESP32 microcontroller programmed using Arduino IDE to collect real-time sensor data and transmit it to the cloud dashboard.
+
+### Functions Implemented
+
+- LM35 temperature sensor reading  
+- ACS712 current sensor monitoring  
+- SW420 vibration sensor monitoring  
+- IR sensor based RPM calculation  
+- Motor speed control using BTS7960 driver  
+- Real-time Blynk cloud communication  
+- Serial communication with Unity Digital Twin  
+- Current sensor auto calibration  
+
+### Source Code
+
+The embedded firmware is available in:
+
+```text
+firmware/esp32_main_code.ino
+```
+
+### Libraries Used
+
+- WiFi.h  
+- BlynkSimpleEsp32.h  
+- BlynkTimer  
+---
+
 ## Working Principle
 
 1. Sensors continuously monitor motor parameters  
