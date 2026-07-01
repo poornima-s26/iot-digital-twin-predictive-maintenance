@@ -102,7 +102,7 @@ The system uses an ESP32 microcontroller programmed using Arduino IDE to collect
 The embedded firmware is available in:
 
 ```text
-firmware/esp32_main_code.ino
+firmware/esp32_code.ino
 ```
 
 ### Libraries Used
