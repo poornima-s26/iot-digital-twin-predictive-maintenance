@@ -6,4 +6,4 @@ This folder contains project architecture and design diagrams.
 
 - Block Diagram
 - Interfacing Diagram
-- Circuit Diagram
+
