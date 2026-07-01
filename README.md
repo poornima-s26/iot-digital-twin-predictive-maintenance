@@ -142,7 +142,33 @@ firmware/esp32_code.ino
 - Real-time anomaly detection  
 
 ---
+## Repository Structure
 
+```text
+iot-digital-twin-predictive-maintenance/
+
+├── dashboard/
+│   ├── blynk_dashboard.md
+│   ├── blynk_dashboard1.png
+│   └── blynk_dashboard2.png
+│
+├── diagrams/
+│   ├── Block Diagram.png
+│   ├── Interfacing Diagram.png
+│   └── project_diagrams.md
+│
+├── digital_twin/
+│   ├── unity_model.png
+│   └── unity_progress.md
+│
+├── firmware/
+│   └── esp32_code.ino
+│
+├── hardware/
+│   └── component_list.md
+│
+└── README.md
+```
 
 
 ## Author
