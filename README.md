@@ -143,31 +143,7 @@ firmware/esp32_code.ino
 
 ---
 
-## Repository Structure
 
-```text
-iot-digital-twin-predictive-maintenance/
-
-├── dashboard/
-│   ├── blynk_dashboard.md
-│   └── dashboard screenshots
-│
-├── diagrams/
-│   ├── Block Diagram.png
-│   ├── Interfacing Diagram.png
-│   └── project_diagrams.md
-│
-├── digital_twin/
-│   ├── unity_model.png
-│   └── unity_progress.md
-│
-├── hardware/
-│   └── component_list.md
-│
-└── README.md
-```
-
----
 
 ## Author
 
